@@ -102,3 +102,4 @@ C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\refin
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.pdb
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.genruntimeconfig.cache
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\ref\FlaUIPoC.dll
+C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.sourcelink.json

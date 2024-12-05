@@ -1,6 +1,7 @@
 ﻿using FlaUI.Core;
 using FlaUI.Core.AutomationElements;
 using FlaUI.UIA3;
+using static AutomationHelper;
 
 public class MainPage
 {
@@ -13,6 +14,6 @@ public class MainPage
 
     public void ClickStartButton()
     {
-        AutomationHelper.ClickButton(_window, "Eight", AutomationHelper.SearchType.ById);
+        AutomationHelper.ClickButton(_window, IdentifyElement.byId, "Eight");
     }
 }

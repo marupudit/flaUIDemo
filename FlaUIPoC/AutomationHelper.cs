@@ -18,7 +18,16 @@ public static class AutomationHelper
         ByText
     }
 
-    private static AutomationElement FindElement(Window window, string searchValue, SearchType searchType)
+    public static class IdentifyElement
+    {
+        public const SearchType defaultSearchType = SearchType.ById;
+        public const SearchType byName = SearchType.ByName;
+        public const SearchType byId = SearchType.ById;
+        public const SearchType byClassName = SearchType.ByClassName;
+        public const SearchType byText = SearchType.ByText;
+    }
+
+    private static AutomationElement FindElement(Window window, SearchType searchType, string searchValue)
     {
         var conditionFactory = new ConditionFactory(new UIA3PropertyLibrary());
 
@@ -32,39 +41,39 @@ public static class AutomationHelper
         };
     }
 
-    public static void ClickButton(Window window, string searchValue, SearchType searchType)
+    public static void ClickButton(Window window, SearchType searchType, string searchValue)
     {
-        var button = FindElement(window, searchValue, searchType)?.AsButton();
+        var button = FindElement(window, searchType, searchValue)?.AsButton();
         button?.Invoke();
     }
 
-    public static void EnterText(Window window, string searchValue, SearchType searchType, string text)
+    public static void EnterText(Window window, SearchType searchType, string searchValue, string text)
     {
-        var textBox = FindElement(window, searchValue, searchType)?.AsTextBox();
+        var textBox = FindElement(window, searchType, searchValue)?.AsTextBox();
         if (textBox != null)
         {
             textBox.Text = text;
         }
     }
 
-    public static string GetText(Window window, string searchValue, SearchType searchType)
+    public static string GetText(Window window, SearchType searchType, string searchValue)
     {
-        var textBox = FindElement(window, searchValue, searchType)?.AsTextBox();
+        var textBox = FindElement(window, searchType, searchValue)?.AsTextBox();
         return textBox?.Text;
     }
 
-    public static void SelectComboBoxItem(Window window, string searchValue, SearchType searchType, string itemText)
+    public static void SelectComboBoxItem(Window window, SearchType searchType, string searchValue, string itemText)
     {
-        var comboBox = FindElement(window, searchValue, searchType)?.AsComboBox();
+        var comboBox = FindElement(window, searchType, searchValue)?.AsComboBox();
         if (comboBox != null)
         {
             comboBox.Select(itemText);
         }
     }
 
-    public static void SetCheckboxState(Window window, string searchValue, SearchType searchType, bool isChecked)
+    public static void SetCheckboxState(Window window, SearchType searchType, string searchValue, bool isChecked)
     {
-        var checkBox = FindElement(window, searchValue, searchType)?.AsCheckBox();
+        var checkBox = FindElement(window, searchType, searchValue)?.AsCheckBox();
         if (checkBox != null)
         {
             checkBox.IsChecked = isChecked;
