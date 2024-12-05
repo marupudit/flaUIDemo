@@ -47,12 +47,12 @@ public static class AutomationHelper
         button?.Invoke();
     }
 
-    public static void EnterText(Window window, SearchType searchType, string searchValue, string text)
+    public static void EnterText(Window windowName, SearchType elementIdType, string elementIdValue, string textToEnter)
     {
-        var textBox = FindElement(window, searchType, searchValue)?.AsTextBox();
+        var textBox = FindElement(windowName, elementIdType, elementIdValue)?.AsTextBox();
         if (textBox != null)
         {
-            textBox.Text = text;
+            textBox.Text = textToEnter;
         }
     }
 

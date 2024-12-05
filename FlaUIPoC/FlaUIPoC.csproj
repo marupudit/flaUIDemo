@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net8.0-windows</TargetFramework>
@@ -21,6 +21,12 @@
 
   <ItemGroup>
     <Using Include="NUnit.Framework" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AgencyCloud\Pages\Company\" />
+    <Folder Include="AgencyCloud\Pages\Contact\" />
+    <Folder Include="AgencyCloud\Pages\Combined\" />
   </ItemGroup>
 
 </Project>

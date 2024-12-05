@@ -1,5 +1,5 @@
 ﻿
-public class MainPageTests : BaseTest
+public class MainPageTests : BaseSetup
 {
     private MainPage _mainPage;
 

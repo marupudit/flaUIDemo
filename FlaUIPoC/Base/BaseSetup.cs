@@ -3,7 +3,7 @@ using FlaUI.Core.AutomationElements;
 using FlaUI.UIA3;
 using System.Diagnostics;
 
-public class BaseTest
+public class BaseSetup
 {
     public  Window Window { get; set; }
     public static Application App { get; set; }
