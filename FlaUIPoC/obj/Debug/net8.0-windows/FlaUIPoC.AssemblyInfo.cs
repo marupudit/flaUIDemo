@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlaUIPoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5969e63b6c1bfb3313a63f1164a2ed1de8a37611")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8671504edac9bd15e6b0d3af2176253598bafa5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlaUIPoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlaUIPoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

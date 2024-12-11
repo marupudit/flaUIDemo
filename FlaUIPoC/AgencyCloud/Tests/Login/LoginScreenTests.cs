@@ -5,28 +5,20 @@ namespace FlaUIPoC.AgencyCloud.Tests.Login
 {
     internal class LoginScreenTests : BaseSetup
     {
-        private LoginScreenPage _loginScreenPage;
-        private MainPage _mainPage;
+        private LoginScreenWindow _loginScreenPage;
 
-        [SetUp]
-        public void TestSetup()
+        [Test]
+        public void CheckTheLoginFunctionalityWithValidCredentails()
         {
-            _loginScreenPage = new LoginScreenPage(App, Automation);
-            _mainPage = new MainPage(App, Automation);
+            var loginPage = MainWindow.LoginScreen;
+            loginPage.EnterLoginCredentials("ATT","password");
         }
 
         [Test]
-        public void CheckTheLoginFunctionality()
+        public void CheckTheLoginFunctionalityWithInValidCredentails()
         {
-            _loginScreenPage.EnterLoginCredentails();
-        }
-
-        [Test]
-        public void CheckTheHomepageScreen()
-        {
-            _loginScreenPage.EnterLoginCredentails();
-            _mainPage.ClickStartButton();
-
+            var loginPage = MainWindow.LoginScreen;
+            loginPage.EnterLoginCredentials("ATT", "wrong");
         }
     }
 }

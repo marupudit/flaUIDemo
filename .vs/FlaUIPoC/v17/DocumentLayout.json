@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\agencycloud\\pages\\login\\loginscreenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\agencycloud\\pages\\login\\loginscreenpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\agencycloud\\tests\\login\\loginscreentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\agencycloud\\tests\\login\\loginscreentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\agencycloud\\window\\recentsearchpanel\\recentsearchpanelwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\agencycloud\\window\\recentsearchpanel\\recentsearchpanelwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\mainpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\mainpagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\agencycloud\\window\\login\\loginscreenwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\agencycloud\\window\\login\\loginscreenwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\agencycloud\\window\\mainloginwindow\\mainloginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\agencycloud\\window\\mainloginwindow\\mainloginwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\basesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\basesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\automationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\automationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\basesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\basesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\applicationlaunchsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\applicationlaunchsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\windowadaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\windowadaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\base\\formadaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|solutionrelative:flauipoc\\base\\formadaptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7635DC89-CA50-48A6-AED7-34B39AFA229B}|FlaUIPoC\\FlaUIPoC.csproj|c:\\users\\tmarupudi\\source\\repos\\flauipoc\\flauipoc\\flauipoc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,38 +50,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginScreenTests.cs",
-              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
-              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
-              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T12:03:57.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LoginScreenPage.cs",
-              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Pages\\Login\\LoginScreenPage.cs",
-              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Pages\\Login\\LoginScreenPage.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Pages\\Login\\LoginScreenPage.cs",
-              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Pages\\Login\\LoginScreenPage.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBoAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:57:15.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -80,59 +62,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPageTests.cs",
-              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\MainPageTests.cs",
-              "RelativeDocumentMoniker": "FlaUIPoC\\MainPageTests.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\MainPageTests.cs",
-              "RelativeToolTip": "FlaUIPoC\\MainPageTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RecentSearchPanelWindow.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\RecentSearchPanel\\RecentSearchPanelWindow.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Window\\RecentSearchPanel\\RecentSearchPanelWindow.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\RecentSearchPanel\\RecentSearchPanelWindow.cs",
+              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Window\\RecentSearchPanel\\RecentSearchPanelWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:44:52.465Z",
+              "WhenOpened": "2024-12-11T18:07:09.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLoginWindow.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\MainLoginWindow\\MainLoginWindow.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Window\\MainLoginWindow\\MainLoginWindow.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\MainLoginWindow\\MainLoginWindow.cs*",
+              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Window\\MainLoginWindow\\MainLoginWindow.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:07:05.166Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\MainPage.cs",
-              "RelativeDocumentMoniker": "FlaUIPoC\\MainPage.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\MainPage.cs",
-              "RelativeToolTip": "FlaUIPoC\\MainPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "LoginScreenWindow.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\Login\\LoginScreenWindow.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Window\\Login\\LoginScreenWindow.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Window\\Login\\LoginScreenWindow.cs*",
+              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Window\\Login\\LoginScreenWindow.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:44:26.902Z",
+              "WhenOpened": "2024-12-05T11:57:15.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AutomationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\AutomationHelper.cs",
-              "RelativeDocumentMoniker": "FlaUIPoC\\Base\\AutomationHelper.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\AutomationHelper.cs",
-              "RelativeToolTip": "FlaUIPoC\\Base\\AutomationHelper.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T16:43:39.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "BaseSetup.cs",
               "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\BaseSetup.cs",
               "RelativeDocumentMoniker": "FlaUIPoC\\Base\\BaseSetup.cs",
-              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\BaseSetup.cs",
-              "RelativeToolTip": "FlaUIPoC\\Base\\BaseSetup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\BaseSetup.cs*",
+              "RelativeToolTip": "FlaUIPoC\\Base\\BaseSetup.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T16:43:01.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginScreenTests.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs*",
+              "RelativeToolTip": "FlaUIPoC\\AgencyCloud\\Tests\\Login\\LoginScreenTests.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:03:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutomationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\AutomationHelper.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\Base\\AutomationHelper.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\AutomationHelper.cs*",
+              "RelativeToolTip": "FlaUIPoC\\Base\\AutomationHelper.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:43:39.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ApplicationLaunchSetUp.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\ApplicationLaunchSetUp.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\Base\\ApplicationLaunchSetUp.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\ApplicationLaunchSetUp.cs",
+              "RelativeToolTip": "FlaUIPoC\\Base\\ApplicationLaunchSetUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T16:57:33.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowAdaptor.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\WindowAdaptor.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\Base\\WindowAdaptor.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\WindowAdaptor.cs",
+              "RelativeToolTip": "FlaUIPoC\\Base\\WindowAdaptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:07:48.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAdaptor.cs",
+              "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\FormAdaptor.cs",
+              "RelativeDocumentMoniker": "FlaUIPoC\\Base\\FormAdaptor.cs",
+              "ToolTip": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\Base\\FormAdaptor.cs",
+              "RelativeToolTip": "FlaUIPoC\\Base\\FormAdaptor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:10:12.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "FlaUIPoC.csproj",
               "DocumentMoniker": "C:\\Users\\tmarupudi\\source\\repos\\FlaUIPoC\\FlaUIPoC\\FlaUIPoC.csproj",
               "RelativeDocumentMoniker": "FlaUIPoC\\FlaUIPoC.csproj",
@@ -141,10 +192,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-26T16:42:27.007Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

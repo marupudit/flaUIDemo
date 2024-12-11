@@ -24,9 +24,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="AgencyCloud\Pages\Company\" />
-    <Folder Include="AgencyCloud\Pages\Contact\" />
-    <Folder Include="AgencyCloud\Pages\Combined\" />
+    <Folder Include="AgencyCloud\Window\Company\" />
+    <Folder Include="AgencyCloud\Window\Contact\" />
+    <Folder Include="AgencyCloud\Window\Combined\" />
   </ItemGroup>
 
 </Project>

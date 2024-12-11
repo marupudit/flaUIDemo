@@ -1,6 +1,8 @@
 ﻿using FlaUI.Core;
 using FlaUI.Core.AutomationElements;
 using FlaUI.Core.Conditions;
+using FlaUI.Core.Definitions;
+using FlaUI.Core.Input;
 using FlaUI.UIA3;
 
 public static class AutomationHelper
@@ -29,14 +31,27 @@ public static class AutomationHelper
 
     private static AutomationElement FindElement(Window window, SearchType searchType, string searchValue)
     {
+        Wait.UntilInputIsProcessed();
         var conditionFactory = new ConditionFactory(new UIA3PropertyLibrary());
 
         return searchType switch
         {
-            SearchType.ByName => window.FindFirstDescendant(cf => cf.ByName(searchValue)),
-            SearchType.ById => window.FindFirstDescendant(cf => cf.ByAutomationId(searchValue)),
-            SearchType.ByClassName => window.FindFirstDescendant(cf => cf.ByClassName(searchValue)),
-            SearchType.ByText => window.FindFirstDescendant(cf => cf.ByText(searchValue)),
+            SearchType.ByName => window.FindFirstDescendant(cf => cf.ByName(searchValue).And(cf.ByControlType(ControlType.ListItem)))
+                           ?? window.FindFirstDescendant(cf => cf.ByName(searchValue).And(cf.ByControlType(ControlType.Button)))
+                           ?? window.FindFirstDescendant(cf => cf.ByName(searchValue).And(cf.ByControlType(ControlType.SplitButton)))
+                           ?? window.FindFirstDescendant(cf => cf.ByName(searchValue).And(cf.ByControlType(ControlType.Custom))),
+            SearchType.ById => window.FindFirstDescendant(cf => cf.ByAutomationId(searchValue).And(cf.ByControlType(ControlType.ListItem)))
+                           ?? window.FindFirstDescendant(cf => cf.ByAutomationId(searchValue).And(cf.ByControlType(ControlType.Button)))
+                           ?? window.FindFirstDescendant(cf => cf.ByAutomationId(searchValue).And(cf.ByControlType(ControlType.SplitButton)))
+                           ?? window.FindFirstDescendant(cf => cf.ByAutomationId(searchValue).And(cf.ByControlType(ControlType.Custom))),
+            SearchType.ByClassName => window.FindFirstDescendant(cf => cf.ByClassName(searchValue).And(cf.ByControlType(ControlType.ListItem)))
+                           ?? window.FindFirstDescendant(cf => cf.ByClassName(searchValue).And(cf.ByControlType(ControlType.Button)))
+                           ?? window.FindFirstDescendant(cf => cf.ByClassName(searchValue).And(cf.ByControlType(ControlType.SplitButton)))
+                           ?? window.FindFirstDescendant(cf => cf.ByClassName(searchValue).And(cf.ByControlType(ControlType.Custom))),
+            SearchType.ByText => window.FindFirstDescendant(cf => cf.ByText(searchValue).And(cf.ByControlType(ControlType.ListItem)))
+                           ?? window.FindFirstDescendant(cf => cf.ByText(searchValue).And(cf.ByControlType(ControlType.Button)))
+                           ?? window.FindFirstDescendant(cf => cf.ByText(searchValue).And(cf.ByControlType(ControlType.SplitButton)))
+                           ?? window.FindFirstDescendant(cf => cf.ByText(searchValue).And(cf.ByControlType(ControlType.Custom))),
             _ => throw new ArgumentOutOfRangeException(nameof(searchType), searchType, null)
         };
     }
@@ -49,6 +64,7 @@ public static class AutomationHelper
 
     public static void EnterText(Window windowName, SearchType elementIdType, string elementIdValue, string textToEnter)
     {
+        
         var textBox = FindElement(windowName, elementIdType, elementIdValue)?.AsTextBox();
         if (textBox != null)
         {

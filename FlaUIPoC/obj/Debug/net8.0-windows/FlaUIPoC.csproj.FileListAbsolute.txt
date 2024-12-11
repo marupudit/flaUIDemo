@@ -96,10 +96,10 @@ C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUI
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.AssemblyInfoInputs.cache
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.AssemblyInfo.cs
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.csproj.CoreCompileInputs.cache
+C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.sourcelink.json
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.csproj.Up2Date
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.dll
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\refint\FlaUIPoC.dll
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.pdb
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.genruntimeconfig.cache
 C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\ref\FlaUIPoC.dll
-C:\Users\tmarupudi\source\repos\FlaUIPoC\FlaUIPoC\obj\Debug\net8.0-windows\FlaUIPoC.sourcelink.json
